@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Pomodoro</string>
+    <string name="time_end">00:00:00:00</string>
+    <string name="btn_start_text">START</string>
+    <string name="btn_stop_text">STOP</string>
+    <string name="btn_add_timer_text">ADD TIMER</string>
+    <string name="edit_text_hint_text">minutes</string>
 </resources>
